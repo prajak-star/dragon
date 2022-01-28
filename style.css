@@ -1,0 +1,13 @@
+h1{
+    color: black ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#design{
+   background-color: cornsilk;   
+}
+body{
+    text-align: center;
+    background: url("https://thumbs.dreamstime.com/b/cloud-sky-pastel-rainbow-colored-background-means-color-gradation-abstract-cloud-sky-pastel-rainbow-182688187.jpg");
+    background-size: cover;
+}
